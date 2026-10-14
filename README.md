@@ -1,5 +1,5 @@
 # Intro-2-Github
-This is OCH's first repository.
+This is OCH's first public repository.
 
 ## INFO Hub Numbers
 
