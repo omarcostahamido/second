@@ -1,5 +1,6 @@
 # Intro-2-Github
-This is Dr OCH's first repository.
+
+This is Dr OCH's first public repository.
 
 ## INFO Hub Numbers
 
